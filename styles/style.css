@@ -1,0 +1,30 @@
+/* 3. Silakan tuliskan element selector h1 didalam file style.css lalu tulislah kode CSS berikut ini: text-transform: capitalize; */
+h1 {
+  text-transform: capitalize;
+}
+
+/* 4. Silakan tuliskan class selector dengan nama "p_pertama" didalam file style.css lalu tulislah kode CSS berikut: */
+.p_pertama {
+  text-align: justify;
+}
+
+/* 5. Silakan tuliskan id selector dengan nama "p_kedua" didalam file style.css lalu tulislah kode CSS berikut: */
+#p_kedua {
+  text-decoration: underline;
+}
+
+/* 6. Silakan tuliskan universal selector didalam file style.css lalu tulislah kode CSS berikut: */
+* {
+  color: white;
+  background-color: green;
+}
+
+/* 7. Silakan tuliskan group selector dengan nama "p_tiga" dan "p_empat" didalam file style.css lalu tulislah kode CSS berikut: */
+.p_tiga, .p_empat {
+  text-align: center;
+}
+
+/* 8. Silakan tuliskan spesific selector dengan nama class "p_lima" didalam file style.css lalu tulislah kode CSS berikut: */
+p.p_lima {
+  text-decoration: line-through;
+}
